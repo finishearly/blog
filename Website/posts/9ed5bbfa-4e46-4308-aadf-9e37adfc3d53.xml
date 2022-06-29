@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>i18n for web apps</title>
+  <slug>i18n-for-web-apps</slug>
+  <author>finishearly</author>
+  <pubDate>2017-07-12 08:35:53</pubDate>
+  <lastModified>2017-07-12 08:45:47</lastModified>
+  <excerpt>Making i18n work for a .net back and webpack front end.</excerpt>
+  <content>Yesterday I published a &lt;a href="https://www.npmjs.com/package/webpack-i18n"&gt;Webpack plugin on NPM&lt;/a&gt; that helps me make working with i18n much more streamlined and simple.&lt;br /&gt;&lt;br /&gt;I'll blog about it more here soon but for the time being, if you are using Webpack, &lt;a href="https://www.npmjs.com/package/webpack-i18n"&gt;check out the plugin&lt;/a&gt; and let me know what you think.&lt;br /&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>.net</category>
+    <category>webpack</category>
+  </categories>
+  <comments></comments>
+</post>
